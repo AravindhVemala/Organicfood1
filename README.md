@@ -29,7 +29,7 @@ Industry: Farming - Industry
 “How can we design an engaging and informative digital platform that educates consumers about the benefits of organic food, its sourcing, and sustainable practices? Our goal is to empower users with accurate information, enabling them to make informed choices for a healthier lifestyle and a greener planet. 
 Additionally, we aim to foster a sense of community engagement by encouraging discussions, sharing success stories, and connecting users with local farmers and producers. By creating a vibrant online ecosystem, we can collectively promote organic practices and contribute to a more sustainable future.”
 
-#Project description: 
+# Project description: 
 Organic food refers to agricultural products that are grown and processed without the use of synthetic chemicals, such as pesticides, herbicides, fertilizers, and genetically modified organisms (GMOs). The production of organic food emphasizes environmentally friendly practices that promote soil and water conservation, biodiversity, and animal welfare.
 
 Here are some key characteristics and aspects of organic food:
