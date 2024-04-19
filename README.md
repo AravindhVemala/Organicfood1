@@ -4,7 +4,7 @@
 # Project Title:   “From Farm To Fork”
 
 # Project Details
-Project Demo URL: https://organicfood1.z13.web.core.windows.net/ <br />
+Project Demo URL: https://organicfood1.z13.web.core.windows.net/ 
 Demo Video URL: 
 GitHub Repository URL: https://aravindhvemala.github.io/Organicfood1
 Industry: Farming - Industry
@@ -12,21 +12,21 @@ Industry: Farming - Industry
 
 # Roles and responsibilities
 1.Aravindh Vemala (project management) :Manages the web development project. <br />
-2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure. 
-3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. 
-4.Sai Srinivas Pathala (Documentation) :Responsible for managing the documentation process. 
+2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure. <br />
+3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. <br />
+4.Sai Srinivas Pathala (Documentation) :Responsible for managing the documentation process. <br />
 
 
 # Azure services used:
-Azure blob storage
-Storage account
-Azure Backup service
-Azure AI services
-chatbot
-Azure Role Based access Control(RBAC)
+1.Azure blob storage <br />
+2.Storage account <br />
+3.Azure Backup service <br />
+4.Azure AI services <br />
+5.chatbot <br />
+6.Azure Role Based access Control(RBAC) <br />
 
 # Problem statement:
-“How can we design an engaging and informative digital platform that educates consumers about the benefits of organic food, its sourcing, and sustainable practices? Our goal is to empower users with accurate information, enabling them to make informed choices for a healthier lifestyle and a greener planet.
+“How can we design an engaging and informative digital platform that educates consumers about the benefits of organic food, its sourcing, and sustainable practices? Our goal is to empower users with accurate information, enabling them to make informed choices for a healthier lifestyle and a greener planet. 
 Additionally, we aim to foster a sense of community engagement by encouraging discussions, sharing success stories, and connecting users with local farmers and producers. By creating a vibrant online ecosystem, we can collectively promote organic practices and contribute to a more sustainable future.”
 
 #Project description: 
@@ -48,20 +48,20 @@ Overall, organic food represents a holistic approach to food production that pri
 
 Yes, you can use various core Azure services to enhance your project. Here are some services you might consider using:
 
-Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. 
-Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. 
-Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
-Azure Backup policy:- An Azure Backup policy service  is a tool within Azure that lets you define how your data gets backed up. It essentially dictates the frequency of backups, how long those backups are retained, and other settings that govern data protection. It provides Data Protection, Backup Schedules, Retention Policies, Compliance, Integration with Azure Policy.
+Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. <br />
+Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. <br />
+Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies. <br />
+Azure Backup policy:- An Azure Backup policy service  is a tool within Azure that lets you define how your data gets backed up. It essentially dictates the frequency of backups, how long those backups are retained, and other settings that govern data protection. It provides Data Protection, Backup Schedules, Retention Policies, Compliance, Integration with Azure Policy. <br />
 
 # Azure AI Service :-
 (We can add 1 Azure AI Service)
-Azure Cognitive Services: These pre-built APIs enable you to add intelligent features to your website. For organic food content, consider using:
-Text Analytics: Extract insights from product descriptions, user reviews, and blog posts.
-Computer Vision: Analyze images of organic produce, packaging, and labels.
-Language Understanding (LUIS): Create natural language interfaces for search and chatbots.
-Azure Machine Learning: Train custom models specific to organic food data. For instance:
-Recommendation Models: Suggest personalized organic products to users.
-Classification Models: Categorize food items (e.g., fruits, vegetables, grains) based on images or descriptions.
+Azure Cognitive Services: These pre-built APIs enable you to add intelligent features to your website. For organic food content, consider using: <br />
+Text Analytics: Extract insights from product descriptions, user reviews, and blog posts. <br />
+Computer Vision: Analyze images of organic produce, packaging, and labels. <br />
+Language Understanding (LUIS): Create natural language interfaces for search and chatbots. <br />
+Azure Machine Learning: Train custom models specific to organic food data. For instance: <br />
+Recommendation Models: Suggest personalized organic products to users. <br />
+Classification Models: Categorize food items (e.g., fruits, vegetables, grains) based on images or descriptions. <br />
 Azure Language Service:- Azure AI Language is a cloud-based service from Microsoft that provides tools for developers to add natural language processing (NLP) capabilities to their applications. It provides Pre-built functionalities, Customizable models, Multilingual support, On-premises deployment. Azure AI Language is a versatile tool for developers who want to incorporate natural language understanding into their applications.
 
 # Screenshot’s:
