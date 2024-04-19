@@ -12,6 +12,7 @@ Industry: lifestyle - sports
 
 # Roles and responsibilities
 Tushar Ray (project management) :Manages the web development project.
+
 Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
 Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
 Nikhil (Documentation) :Responsible for managing the documentation process.
