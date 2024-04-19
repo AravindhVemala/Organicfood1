@@ -4,9 +4,9 @@
 # Project Title:   “From Farm To Fork”
 
 # Project Details
-Project Demo URL: https://organicfood1.z13.web.core.windows.net/ 
-Demo Video URL: 
-GitHub Repository URL: https://aravindhvemala.github.io/Organicfood1
+Project Demo URL: https://organicfood1.z13.web.core.windows.net/ <br />
+Demo Video URL: <br />
+GitHub Repository URL: https://aravindhvemala.github.io/Organicfood1 <br />
 Industry: Farming - Industry
 
 
