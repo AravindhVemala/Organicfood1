@@ -73,7 +73,7 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 Role assignment
 Backup policy
 Azure Bot
-**C:\Users\varav\OneDrive\Pictures\Screenshots\AzureBot.png**
+** C:\Users\varav\OneDrive\Pictures\Screenshots\AzureBot.png **
 Test in web chat
 Resource visualizer
 
