@@ -4,17 +4,17 @@
 # Project Title:   “From Farm To Fork”
 
 # Project Details
-Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
-Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-Industry: lifestyle - sports
+Project Demo URL: https://organicfood1.z13.web.core.windows.net/
+Demo Video URL: 
+GitHub Repository URL: 
+Industry: Farming - Industry
 
 
 # Roles and responsibilities
-Tushar Ray (project management) :Manages the web development project.
-Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
-Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-Nikhil (Documentation) :Responsible for managing the documentation process.
+1.Aravindh Vemala (project management) :Manages the web development project. 
+2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure. 
+3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. 
+4.Sai Srinivas Pathala (Documentation) :Responsible for managing the documentation process. 
 
 
 # Azure services used:
@@ -66,29 +66,27 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 
 # Screenshot’s:
 # Storage Account
-****
-# Static website
+![storage](https://github.com/AravindhVemala/Organicfood1/assets/152161180/4799593e-479b-4b66-8053-7fd94c60145b)
 # Container
+![container](https://github.com/AravindhVemala/Organicfood1/assets/152161180/5e9435f5-d316-461c-a673-1a69ec607ca7)
 # Backup vault
-# Role assignment
+![backup](https://github.com/AravindhVemala/Organicfood1/assets/152161180/6de9ad07-ddbc-4295-98bc-273e7a380766)
 # Backup policy
+![policy](https://github.com/AravindhVemala/Organicfood1/assets/152161180/e9afbecf-6a43-4f32-b297-f5c21a1f9885)
 # Azure Bot
 ![AzureBot](https://github.com/AravindhVemala/Organicfood1/assets/152161180/7f7d5458-29ff-4cd5-bde9-6e789ad761fc)
 # Test in web chat
-# Resource visualizer
-
+![Testinweb](https://github.com/AravindhVemala/Organicfood1/assets/152161180/20ac0b11-ad63-4ea8-a370-ecaff3fa8b41)
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-
-
-
-
-
+![home](https://github.com/AravindhVemala/Organicfood1/assets/152161180/19922ca1-dd8e-41e4-95e2-45d572ed6e6d)
 # Contact page
+![contact](https://github.com/AravindhVemala/Organicfood1/assets/152161180/cc5751e1-4d7a-4867-8c2b-c6f0cda0ddfe)
 # Final Project Statement:
+
 
 
 
