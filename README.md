@@ -4,14 +4,14 @@
 # Project Title:   “From Farm To Fork”
 
 # Project Details
-Project Demo URL: https://organicfood1.z13.web.core.windows.net/
+Project Demo URL: https://organicfood1.z13.web.core.windows.net/ <br />
 Demo Video URL: 
 GitHub Repository URL: https://aravindhvemala.github.io/Organicfood1
 Industry: Farming - Industry
 
 
 # Roles and responsibilities
-1.Aravindh Vemala (project management) :Manages the web development project. 
+1.Aravindh Vemala (project management) :Manages the web development project. <br />
 2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure. 
 3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. 
 4.Sai Srinivas Pathala (Documentation) :Responsible for managing the documentation process. 
