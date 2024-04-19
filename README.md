@@ -70,25 +70,25 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 # Static website
 # Container
 # Backup vault
-Role assignment
-Backup policy
-Azure Bot
-** C:\Users\varav\OneDrive\Pictures\Screenshots\AzureBot.png **
-Test in web chat
-Resource visualizer
+# Role assignment
+# Backup policy
+# Azure Bot
+** Users\varav\OneDrive\Pictures\Screenshots\AzureBot.png **
+# Test in web chat
+# Resource visualizer
 
-Description
+# Description
 Here I am attaching the final working website's screenshot for the reference.
 
-Working Live Project Display:
-Home page
+# Working Live Project Display:
+# Home page
 
 
 
 
 
-Contact page
-Final Project Statement:
+# Contact page
+# Final Project Statement:
 
 
 
