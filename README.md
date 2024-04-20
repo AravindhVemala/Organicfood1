@@ -86,6 +86,8 @@ Here I am attaching the final working website's screenshot for the reference.
 # Contact page
 ![contact](https://github.com/AravindhVemala/Organicfood1/assets/152161180/cc5751e1-4d7a-4867-8c2b-c6f0cda0ddfe)
 # Final Project Statement:
+For our final project, we aim to explore the benefits and challenges of organic food production and consumption. <br />
+By examining both the opportunities and limitations of organic food production, we aim to provide valuable insights for consumers, policymakers, and stakeholders interested in promoting healthier, more sustainable food systems."
 
 
 
