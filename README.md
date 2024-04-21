@@ -64,7 +64,7 @@ Recommendation Models: Suggest personalized organic products to users. <br />
 Classification Models: Categorize food items (e.g., fruits, vegetables, grains) based on images or descriptions. <br />
 Azure Language Service:- Azure AI Language is a cloud-based service from Microsoft that provides tools for developers to add natural language processing (NLP) capabilities to their applications. It provides Pre-built functionalities, Customizable models, Multilingual support, On-premises deployment. Azure AI Language is a versatile tool for developers who want to incorporate natural language understanding into their applications.
 
-# Screenshot’s:
+## Screenshot’s:
 # Storage Account
 ![storage](https://github.com/AravindhVemala/Organicfood1/assets/152161180/4799593e-479b-4b66-8053-7fd94c60145b)
 # Container
@@ -80,12 +80,12 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
-# Working Live Project Display:
+## Working Live Project Display:
 # Home page
 ![home](https://github.com/AravindhVemala/Organicfood1/assets/152161180/19922ca1-dd8e-41e4-95e2-45d572ed6e6d)
 # Contact page
 ![contact](https://github.com/AravindhVemala/Organicfood1/assets/152161180/cc5751e1-4d7a-4867-8c2b-c6f0cda0ddfe)
-# Final Project Statement:
+## Final Project Statement:
 For our final project, we aim to explore the benefits and challenges of organic food production and consumption. <br />
 By examining both the opportunities and limitations of organic food production, we aim to provide valuable insights for consumers, policymakers, and stakeholders interested in promoting healthier, more sustainable food systems."
 
