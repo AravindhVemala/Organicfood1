@@ -1,7 +1,7 @@
 
 # Industry type:   Farming industry
 
-# Project Title:   “From Farm To Fork”
+## Project Title:   #“From Farm To Fork”
 
 # Project Details
 Project Demo URL: https://organicfood1.z13.web.core.windows.net/ <br />
