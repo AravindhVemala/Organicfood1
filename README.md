@@ -6,7 +6,7 @@
 # Project Details
 Project Demo URL: https://organicfood1.z13.web.core.windows.net/ <br />
 Demo Video URL: <br />
-GitHub Repository URL: https://aravindhvemala.github.io/Organicfood1 <br />
+GitHub Repository URL: [https://aravindhvemala.github.io/Organicfood1](https://github.com/AravindhVemala/Organicfood1) <br />
 Industry: Farming - Industry
 
 
