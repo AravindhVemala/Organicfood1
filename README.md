@@ -12,8 +12,8 @@
 
 # Roles and responsibilities
 1.Aravindh Vemala (project management) :Manages the web development project. <br />
-2.Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure. <br />
-3.Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. <br />
+2.Dasi Srividya (Deployment) :Deployment and maintenance of project infrastructure. <br />
+3.Srilekha Vadluri (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions. <br />
 4.Sai Srinivas Pathala (Documentation) :Responsible for managing the documentation process. <br />
 
 
