@@ -67,22 +67,35 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 # Screenshot’s:
 # Storage Account
 ![storage](https://github.com/AravindhVemala/Organicfood1/assets/152161180/4799593e-479b-4b66-8053-7fd94c60145b)
+# Static Website
+![static web site](https://github.com/AravindhVemala/Organicfood1/assets/152161180/a84d74b6-6220-4a1c-b956-fc298e59a219)
 # Container
 ![container](https://github.com/AravindhVemala/Organicfood1/assets/152161180/5e9435f5-d316-461c-a673-1a69ec607ca7)
-# Backup vault
+# Backup Vault
 ![backup](https://github.com/AravindhVemala/Organicfood1/assets/152161180/6de9ad07-ddbc-4295-98bc-273e7a380766)
-# Backup policy
+# Role Assignment
+![roleAssignment](https://github.com/AravindhVemala/Organicfood1/assets/152161180/ea3d6f54-27e2-4a00-8658-280a33ce4119)
+# Backup Policy
 ![policy](https://github.com/AravindhVemala/Organicfood1/assets/152161180/e9afbecf-6a43-4f32-b297-f5c21a1f9885)
 # Azure Bot
 ![AzureBot](https://github.com/AravindhVemala/Organicfood1/assets/152161180/7f7d5458-29ff-4cd5-bde9-6e789ad761fc)
 # Test in web chat
 ![Testinweb](https://github.com/AravindhVemala/Organicfood1/assets/152161180/20ac0b11-ad63-4ea8-a370-ecaff3fa8b41)
+# Resource Visualizer
+![resource visualizer](https://github.com/AravindhVemala/Organicfood1/assets/152161180/77e2522b-e767-4f0c-a926-856c7e74c2c6)
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 ## Working Live Project Display:
 # Home page
 ![home](https://github.com/AravindhVemala/Organicfood1/assets/152161180/19922ca1-dd8e-41e4-95e2-45d572ed6e6d)
+# About page
+![about](https://github.com/AravindhVemala/Organicfood1/assets/152161180/16ef253a-5b98-4f98-bb86-225411ccaba9)
+# Menu page
+![menu](https://github.com/AravindhVemala/Organicfood1/assets/152161180/0917b343-817c-45eb-aae5-6f6cf285837d)
+# Info page
+![info1](https://github.com/AravindhVemala/Organicfood1/assets/152161180/36e61b0f-105a-4b04-8a13-9336ffff543f)
+![info2](https://github.com/AravindhVemala/Organicfood1/assets/152161180/ed721966-a2e5-4509-926d-7ad40ad8010d)
 # Contact page
 ![contact](https://github.com/AravindhVemala/Organicfood1/assets/152161180/cc5751e1-4d7a-4867-8c2b-c6f0cda0ddfe)
 ## Final Project Statement:
